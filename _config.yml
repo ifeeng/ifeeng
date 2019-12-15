@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/ifeng.jpg"
+  avatar : "/assets/images/iFeng.jpg"
   bio    : "Tech & Fin & Gadget enthusiast. </br> I write about tech around me. </br> Currently in Shanghai."
   links:
     - label: "Home"
