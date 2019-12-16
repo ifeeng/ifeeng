@@ -54,4 +54,4 @@ I bought this three days ago. And just today, 16the Dec, the V2 launched! After 
 For the price, it’s recommendable. After owning several e-ink reading products, I come to understand that developing a good one is not easy. Its size and weight are the key selling points for me. For a business traveler, being able to pick up those fragmented reading moments with a comfortable e-ink screen is a pleasant experience. The ownership of this device is worthy.
 
 [boox]: https://www.boox.com/en/
-[img-red]: /assets/images/pocket-read-red.jpg
+[img-red]: /assets/images/pocket-read-red.JPG
