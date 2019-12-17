@@ -61,6 +61,7 @@ For the price of ~ 800 yuan, it’s recommendable. After owning several e-ink re
 
 [boox]: https://www.boox.com/en/
 [v2]: https://www.ithome.com/0/463/152.htm
+[img-pocket-read-phone]: /assets/images/pocket-read-phone.JPG
 [img-red]: /assets/images/pocket-read-phone.JPG
 [img-bookshop]: /assets/images/pocket-read-booshop.JPG
 [img-call]: /assets/images/pocket-read-call.JPG
