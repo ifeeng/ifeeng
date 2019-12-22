@@ -12,7 +12,7 @@ tags:
   - vanguard
 ---
 
-The teaming up of Vanguard and AntFinance made some [headlines][antvan] a couple of months back. Just last week, news [broke][bloackrock] that Backrock and Temasek jointly partnered with CCB (China Construction Bank) to enter Chinese market, with a possibility to bring Tencent into the team.
+The teaming up of Vanguard and AntFinance made some [headlines][antvan] a couple of months back. Just last week, news [broke][blackrock] that Backrock and Temasek jointly partnered with CCB (China Construction Bank) to enter Chinese market, with a possibility to bring Tencent into the team.
 
 As an ordinary Chinese consumer, what does that mean for me?
 
