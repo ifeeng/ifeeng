@@ -38,7 +38,7 @@ The question is - will they be competitive to Chinese players for mid and long t
 
 AntFinancial’s Alipay offers some basic algorithm for fund selections. For example, suitable timing to buy when a fund is below its normal value. They also do fund ranking that combine Morningstar score and other factors. Being an fund houses, this might not be a good thing - if you are lower in the rank, that is. As a small investor, this is great. It is within AntFinancial’s interest to develop smarter algo so that their users like me can easily pick a good return generator, so I keep come back. Can’t imagine if I will come back after they offer me a couple of below-index performance funds.
 
-With the big data that they have on me, they should know my spending behavior in Taobao / Tmall, usage of their credit offering (Hua Bei | 花呗) and even health data such as how many steps I walked a day etc. Combine these data with their “TechFin” algo, they’d better offer me something better.
+With the big data that they have on me, they should know my spending behavior in Taobao / Tmall, usage of their credit offering (Hua Bei "花呗") and even health data such as how many steps I walked a day etc. Combine these data with their “TechFin” algo, they’d better offer me something better.
 
 Here is the Billion dollar question - can Blockrock and Vanguard win their customers in A&T’s (Alibaba and Tencent) beauty contest?
 
