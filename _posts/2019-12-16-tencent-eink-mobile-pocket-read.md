@@ -9,7 +9,7 @@ tags:
   - tencent
 ---
 
-I love e-Ink. So far I haven’t found any electronic reading experience that can match ink-screen. My iPhone and iPad Pro are certainly convenient and functional as a mini-computer on the move. But reading books or long articles is just not something I can bear. 
+I love e-Ink. So far I haven’t found any electronic reading experience that can match ink-screen. My iPhone and iPad Pro are certainly convenient and functional as a mini-computer on the move. But reading books or long articles is just not something I can bear.
 
 Kindle is excellent. I have owned two of them. The most recent one - Kindle Paperwhite - is my regular reader. I also have a [Boox Note][Boox] which is sizable enough to offer a more comfortable reading on PDF and essays. And it’s quite functional as an Android device. Both Kindle and Boox offer me different kind of reading experience depends on the occasions.
 
@@ -51,7 +51,7 @@ That’s quite a niche usage of this pocket read.
 
 ## Pocket Read II
 
-It is funny that I bought this V1 three days before they [launched V2][v2]! It features a curvy design, more social-sharing, and faster processor. It is marketed for 1099 Yuan (~ $157). After some review reading, I don’t think the incremental 271 yuan will make me to switch. 800 RMB mark is reasonable for this play-around Phone+Reader. 
+It is funny that I bought this V1 three days before they [launched V2][v2]! It features a curvy design, more social-sharing, and faster processor. It is marketed for 1099 Yuan (~ $157). After some review reading, I don’t think the incremental 271 yuan will make me to switch. 800 RMB mark is reasonable for this play-around Phone+Reader.
 
 ## Conclusion
 
