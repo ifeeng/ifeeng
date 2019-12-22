@@ -1,6 +1,6 @@
 ---
-title: "Pocket Read 口袋阅 - An e-Ink Mobile Phone/Reader"
-date: 2019-12-16T15:34:30+08:00
+title: "So Backrock is in the China game, after  Vanguard"
+date: 2019-12-22T10:34:30+08:00
 categories:
   - Fintech
 tags:
@@ -38,7 +38,7 @@ The question is - will they be competitive to Chinese players for mid and long t
 
 AntFinancial’s Alipay offers some basic algorithm for fund selections. For example, suitable timing to buy when a fund is below its normal value. They also do fund ranking that combine Morningstar score and other factors. Being an fund houses, this might not be a good thing - if you are lower in the rank, that is. As a small investor, this is great. It is within AntFinancial’s interest to develop smarter algo so that their users like me can easily pick a good return generator, so I keep come back. Can’t imagine if I will come back after they offer me a couple of below-index performance funds.
 
-With the big data that they have on me, they should know my spending behavior in Taobao/Tmall, usage of their credit offering (Hua Bei | 花呗) and even health data such as how many steps I walked a day etc. Combine these data with their “TechFin” algo, they’d better offer me something better.
+With the big data that they have on me, they should know my spending behavior in Taobao / Tmall, usage of their credit offering (Hua Bei | 花呗) and even health data such as how many steps I walked a day etc. Combine these data with their “TechFin” algo, they’d better offer me something better.
 
 Here is the Billion dollar question - can Blockrock and Vanguard win their customers in A&T’s (Alibaba and Tencent) beauty contest?
 
@@ -49,12 +49,12 @@ It is still early day of global players in the Chinese market. But competition i
 _Ps. Fund investment in Alipay and Wechat currently only available to Chinese citizen in China. Foreign passport holders can’t participate, yet._
 
 
-<!— Reference —>
+<!-- Reference -->
 [antvan]: https://www.ft.com/content/f76de7ff-02f0-3b96-aba9-0986547a3cd0
 [blackrock]: https://www.bloomberg.com/news/articles/2019-12-19/blackrock-temasek-agree-to-start-china-wealth-joint-venture
 [qdii]: https://www.investopedia.com/terms/q/qdii.asp
 [2015]: https://en.wikipedia.org/wiki/2015–16_Chinese_stock_market_turbulence
 [bullish]: https://www.bloomberg.com/opinion/articles/2019-12-22/sherry-s-decline-is-a-warning-for-china-s-booming-baijiu-makers
 
-<!— Photo —>
+<!-- Photos -->
 [fundmarket]: /assets/images/2019_12_fundmarket.JPG
